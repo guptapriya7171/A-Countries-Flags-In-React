@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Countris REST API application ![element workflow](https://img.shields.io/badge/Front%20End-React-red)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
