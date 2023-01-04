@@ -28,8 +28,10 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-### `Captured Image`
+### `Captured Images`
+
 ![captured](https://user-images.githubusercontent.com/96413187/210543655-139a704b-c175-4b4a-bf24-a4ce6bfc3fd5.PNG)
+
 ![captured2](https://user-images.githubusercontent.com/96413187/210543904-c6218bee-7894-46b5-bacb-29dad90ef6aa.PNG)
 
 
